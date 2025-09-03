@@ -20,7 +20,7 @@ export default function PricingPage() {
                 <ul className="space-y-4 my-8 text-left">
                      <li className="flex items-center">
                         <svg className="w-5 h-5 text-green-400 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path></svg>
-                        500 moedas (imagens) por mês
+                        50 moedas (imagens) por mês
                     </li>
                     <li className="flex items-center">
                         <svg className="w-5 h-5 text-green-400 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path></svg>
@@ -43,7 +43,7 @@ export default function PricingPage() {
                 <ul className="space-y-4 my-8 text-left">
                     <li className="flex items-center">
                         <svg className="w-5 h-5 text-green-400 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path></svg>
-                        100 moedas (imagens) por mês
+                        10 moedas (imagens) por mês
                     </li>
                     <li className="flex items-center">
                         <svg className="w-5 h-5 text-green-400 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path></svg>
